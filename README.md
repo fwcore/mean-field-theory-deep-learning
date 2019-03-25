@@ -1,3 +1,7 @@
+## Slides
+
+[Mean-field theory and dynamical isometry of deep neural networks](https://github.com/fwcore/mean-field-theory-deep-learning/blob/master/talk/20190322/Mean-field%20theory%20and%20dynamical%20isometry%20of%20deep%20neural%20networks.pdf)
+
 ## Keywords
 * mean field theory
 * central limit theorem
